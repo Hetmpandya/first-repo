@@ -1,3 +1,3 @@
 # first-repo
 First git Reposotory <br>
-Author : Het Pandya
+Author : Het Pandya (LDRP)
